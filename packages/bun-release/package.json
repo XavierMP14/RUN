@@ -5,7 +5,7 @@
     "aws4fetch": "^1.0.17",
     "esbuild": "^0.17.3",
     "jszip": "^3.10.1",
-    "octokit": "^2.0.14"
+    "octokit": "^4.1.2"
   },
   "devDependencies": {
     "@octokit/types": "^8.1.1",
