@@ -17,8 +17,8 @@
   "dependencies": {
     "@strapi/plugin-graphql": "^4.9.1",
     "@strapi/plugin-i18n": "^4.5.6",
-    "@strapi/plugin-users-permissions": "^4.5.6",
-    "@strapi/strapi": "^4.5.6",
+    "@strapi/plugin-users-permissions": "^5.47.1",
+    "@strapi/strapi": "^5.47.1",
     "lodash.set": "^4.3.2",
     "pg": "^8.8.0",
     "strapi-provider-upload-azure-storage": "^2.1.0"
