@@ -4,6 +4,6 @@
   "type": "module",
   "devDependencies": {
     "jest": "^29.3.1",
-    "vitest": "^0.25.3"
+    "vitest": "^4.1.8"
   }
 }
